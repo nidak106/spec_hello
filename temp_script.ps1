@@ -1,0 +1,1 @@
+.\.specify\scripts\powershell\create-new-feature.ps1 -Json -Number 1 -ShortName "calculator-library" "Basic Python calculator library that supports add, subtract, multiply, divide, and power operations. Inputs are int or float. Outputs are float with 6-decimal precision. Must handle division by zero and invalid inputs gracefully. Library-only interface initially."
